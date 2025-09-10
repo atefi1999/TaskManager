@@ -1,4 +1,4 @@
-# TaskManager
+# Task Manager
 
 A simple Python application to **manage tasks** using Object-Oriented Programming.  
 The system allows adding, editing, deleting, marking as done, and searching tasks.
@@ -6,6 +6,7 @@ The system allows adding, editing, deleting, marking as done, and searching task
 ---
 
 ## ✨ Features
+
 - Add new tasks with title and optional description
 - Edit existing tasks
 - Delete tasks
@@ -16,6 +17,7 @@ The system allows adding, editing, deleting, marking as done, and searching task
 ---
 
 ## 🛠 Requirements
+
 - Python 3.x  
 > No external libraries required — only Python standard library.
 
