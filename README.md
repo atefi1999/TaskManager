@@ -2,7 +2,7 @@
 
 A simple Python application to **manage tasks** using Object-Oriented Programming.  
 The system allows adding, editing, deleting, marking as done, and searching tasks.
-
+ 
 ---
 
 ## ✨ Features
