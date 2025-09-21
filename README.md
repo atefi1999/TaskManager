@@ -45,7 +45,7 @@ python task_manager.py
 ---
 ## 🎥 Demo
 
-<img  alt="screenshot" src="https://github.com/user-attachments/assets/5a8f2f10-6fdd-47c6-99be-cf92095a4260"  width="50%" />
+<img  alt="screenshot" src="https://github.com/user-attachments/assets/5a8f2f10-6fdd-47c6-99be-cf92095a4260"  width="75%" />
 
 ---
 
